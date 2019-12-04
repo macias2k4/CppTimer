@@ -7,7 +7,7 @@ To use it just create a Timer class object (with providing a function. It can be
 
 Example of use:
 
-```
+```cpp
 // ────────────────────────────────────────────────────────────────────────────────────────────── //
 // CppTimer
 #include "../src/Timer.hpp"
